@@ -3,4 +3,11 @@ Challenge:
 Select the img tag and set the width 
 of the Google logo to be 300px.
 */
-
+img{
+    width: 300px;
+    background-color: white;
+}
+input{
+    border-radius: 14px;
+    width:400px
+}
