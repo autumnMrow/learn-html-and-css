@@ -1,7 +1,10 @@
 body {
     margin: 20px;
 }
-
+.card {
+    border: 2px dotted blue;
+    padding: 20px;
+}
 .avatar {
     width: 150px;
 }
