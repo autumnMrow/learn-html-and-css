@@ -17,3 +17,6 @@ body {
 Challenge:
 Add the underline to the title using a <span> and a class.
 */
+.cta {
+    border-bottom: 2px solid white;
+}
