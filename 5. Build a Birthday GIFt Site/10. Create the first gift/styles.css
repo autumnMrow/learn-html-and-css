@@ -9,6 +9,19 @@ h1, h2, h3, h4, p {
     text-shadow: 0 0 1px black;
 }
 
+.gift-section {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.gift-box {
+    width: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+}
 #bff-img {
     width: 150px;
     border-radius: 50%;

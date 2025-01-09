@@ -8,3 +8,14 @@ Don't know how to make an image round? Google it!
 Also, consider how you should select the image 
 (class vs id vs element selector).
 */
+body {
+    font-family: Happy Monkey;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+#face {
+    border-radius: 50%;
+    width: 200px;
+}

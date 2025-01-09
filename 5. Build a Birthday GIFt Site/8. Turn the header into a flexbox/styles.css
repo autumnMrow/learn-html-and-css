@@ -27,3 +27,23 @@ id called "header".
 Then, select the "header" and use flexbox to achieve
 the layout you've been provided in the design slide.
 */
+    
+#bday-age {
+    padding: 8px;
+    border-radius: 2px;
+    font-size: medium;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    padding: 8px;
+    border-radius: 2px;
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
